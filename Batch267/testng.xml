@@ -1,0 +1,16 @@
+<suite name="Suite" parallel="tests">
+  <tests>
+  <test thread-count="5" name="chrome">
+  <parameter name="Browser" value="chrome"/>
+  <classes>
+ 	 <class name="TestNG.ParallelExecution"/>
+  </classes>
+  </test>
+  <test thread-count="5" name="edge">
+  <parameter name="Browser" value="edge"/>
+  <classes>
+ 	 <class name="TestNG.ParallelExecution"/>
+  </classes>
+  </test>
+  </tests>
+</suite>

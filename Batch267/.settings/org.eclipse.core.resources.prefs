@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//src/Actions/Click.java=UTF-8
+encoding//src/Actions/Click_WebElement.java=UTF-8
+encoding//src/Actions/ContextClick.java=UTF-8
+encoding//src/Actions/ContextClick_WebElement.java=UTF-8
+encoding//src/Actions/DragAndDrop_Offset.java=UTF-8
+encoding//src/Actions/DragAndDrop_WebElement.java=UTF-8
+encoding//src/Popup/HTMLPopup.java=UTF-8

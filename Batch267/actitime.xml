@@ -1,0 +1,8 @@
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+  <parameter name="appURL" value="https://www.selenium.dev/downloads/"/>
+  <classes>
+      <class name="TestNG.Actitime"/>
+    </classes>
+  </test>
+</suite>
